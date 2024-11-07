@@ -1,38 +1,9 @@
-/*#include <stdio.h>
-#include "ishaanownlibrary.c"
-int c = 3;
+/* Name: Ishaan Rajani
+   roll no: 08
+   UIN: 241P008
 
-int add(int a , int b){
-
-return a+b;
-}
-
-int add(){
-
-    int b = 4;
-    printf("%d this is a variable b", b);
-
-
-return 1;
-}
-int main(){
-
-    int a = 5;
-    int result;
-    result = add(4,5);
-    printf("%d" a,b)
-    //add();
-
-return 0;
-}*/
-
-
-
-
-
-
-
-
+   WAP to define a counter function to print how many times
+   the function is called use storage classes*/
 #include <stdio.h>
 
 void counter() {
